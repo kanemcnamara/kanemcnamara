@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanemcnamara
 - 👀 I’m interested in custom web solutions
-- 🌱 I’m currently studying Electrical Engineering
+- 🌱 Electrical Engineer
 - 📫 Email kane@wattleit.com.au
 
 <!---
